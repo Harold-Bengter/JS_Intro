@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&family=Permanent+Marker&display=swap');
+
+
+body{
+    background-color: rgb(133, 87, 28); 
+}
+
+div{
+    border: 5px dotted rgb(69, 80, 95);
+    padding: 15px;
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bahianita', cursive;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+     text-transform: uppercase;
+}
